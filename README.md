@@ -6,3 +6,8 @@ git commit -m "initial commit"
 git push --set-upstream origin master
 
 node .\my-script.js
+
+----
+npm install --save-dev @babel/core @babel/node @babel/preset-env
+npx babel-node .\my-script.js
+----

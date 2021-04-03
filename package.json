@@ -16,5 +16,10 @@
     "url": "https://github.com/rkbarnwal/back-end-template/issues"
   },
   "homepage": "https://github.com/rkbarnwal/back-end-template#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.12"
+  }
 }
