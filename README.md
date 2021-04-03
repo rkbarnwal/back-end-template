@@ -1,3 +1,4 @@
+1.  
 git init  
 git add .  
 git remote add origin https://github.com/rkbarnwal/back-end-template.git  
@@ -7,7 +8,9 @@ git push --set-upstream origin master
 
 node .\my-script.js  
 
-----  
+2.  
 npm install --save-dev @babel/core @babel/node @babel/preset-env  
 npx babel-node .\my-script.js  
-----  
+  
+3.  
+npm install express  
