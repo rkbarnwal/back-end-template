@@ -5,3 +5,4 @@ npm init -y
 git commit -m "initial commit"
 git push --set-upstream origin master
 
+node .\my-script.js
